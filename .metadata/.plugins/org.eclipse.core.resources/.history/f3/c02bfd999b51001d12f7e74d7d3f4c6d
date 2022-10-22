@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package Selenium_Pack;
+
+/**
+ * @author Rocío
+ *
+ */
+public class primera_prueba {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
